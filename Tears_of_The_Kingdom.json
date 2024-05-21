@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "author": "._.serinova._.",
+        "version": "1.0.0",
+        "name": "Tears of The Kingdom"
+    },
+    "background": {
+        "overlay_alpha": 180,
+        "url": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/th1.jpeg"
+    },
+    "fonts": {
+        "ginto_regular": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Calamity-Regular.otf",
+        "whitney_medium": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Calamity-Regular.otf",
+        "ginto_bold": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Calamity-Bold.otf",
+        "ginto_medium": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Calamity-Bold.otf",
+        "whitney_bold": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Calamity-Bold.otf",
+        "whitney_semibold": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Calamity-Bold.otf"
+    },
+    "simple_colors": {
+        "background": -15968701,
+        "background_secondary": -16372445,
+        "accent": -14637962,
+        "statusbar": -16035521,
+        "input_background": -16296137
+    },
+    "colors": {
+        "primary_dark_630": -15968701,
+        "primary_dark_200": -12666235,
+        "primary_630": -14386603,
+        "primary_660": -15044277,
+        "primary_300": -15968701,
+        "uikit_btn_bg_color_selector_red": -11534061,
+        "primary_dark_330": -16548253
+    },
+    "drawable_tints": {
+        "ic_status_idle_16dp": -2162944,
+        "ic_status_dnd_16dp": -28928,
+        "ic_status_online_16dp": -16719617,
+        "ic_status_invisible_16dp": -211090685
+    },
+    "raws": {}
+}
