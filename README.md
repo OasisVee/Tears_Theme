@@ -1,1 +1,1 @@
-# Tears_Theme
+# Tears of The Kingdom Theme
