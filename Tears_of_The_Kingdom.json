@@ -2,7 +2,8 @@
     "manifest": {
         "author": "._.serinova._.",
         "version": "1.0.0",
-        "name": "Tears of The Kingdom"
+        "name": "Tears of The Kingdom",
+        "updater": "https:\/\/github.com\/OasisVee\/Tears_Theme\/raw\/main\/Tears_of_The_Kingdom.json"
     },
     "background": {
         "overlay_alpha": 180,
